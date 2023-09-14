@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SreeDev-4522
-- 👀 I’m interested in Machine Learning.
+- 👀 I’m interested in Graph Theory.
 - 🌱 I’m currently learning Software development.
-- 💞️ I’m looking to collaborate on Open Source by March 2023
+- 💞️ Looking forward to learning new things.
 - 📫 How to reach me sreedev0115@gmail.com
 
 <!---
